@@ -1,0 +1,1 @@
+ansible all -m package -a "name=httpd state=present"
